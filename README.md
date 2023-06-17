@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @APshellxx
+- 👋 Hi, I’m Alexander
 - 👀 I’m interested in coding, ethical hacking and puzzles
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Vlang, advanced Typescript and React
 - 💞️ I’m looking to collaborate on a program for coding
-- 📫 How to reach me ... Discord:Alexander_1208#8025, Email:alexander1208mendes@gmail.com
+- 📫 How to reach me ... Discord:Alexander_1208#1648, Email:alexander1208mendes@gmail.com
 
 <!---
 APshellxx/APshellxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
